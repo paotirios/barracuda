@@ -1,2 +1,6 @@
 La intención de este repositorio es unicamente saber como funciona Git, GitHub.
 
+Cambio 1
+
+
+Cabmios 2
