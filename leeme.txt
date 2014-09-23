@@ -1,0 +1,2 @@
+La intención de este repositorio es unicamente saber como funciona Git, GitHub.
+
